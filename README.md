@@ -30,7 +30,6 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with Jumpshare
-https://i.imgur.com/1NCooDf.mp4
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
