@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='website_walkthrough.gif' title='Video Walkthrough' width='600' height='326' alt='Website Walkthrough' />
+<img src='prework_walktrough.gif' title='Video Walkthrough' width='600' height='326' alt='Website Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
